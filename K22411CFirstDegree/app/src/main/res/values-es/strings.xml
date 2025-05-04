@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">K22411CFirstDegree</string>
+    <string name="title_app">Primer Grado</string>
+    <string name="title_coefficient_a">Coefficient a: </string>
+    <string name="title_coefficient_b">Coefficient b: </string>
+    <string name="title_solution">Solución</string>
+    <string name="title_next">Siguiente</string>
+    <string name="title_exit">Salir</string>
+    <string name="title_result">Resultado:</string>
+    <string name="title_infinity">Infinity!</string>
+    <string name="title_no_solution">No Solution!</string>
+</resources>

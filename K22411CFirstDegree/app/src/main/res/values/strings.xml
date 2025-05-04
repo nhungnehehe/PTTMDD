@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">K22411CFirstDegree</string>
+    <string name="title_app">First Degree</string>
+    <string name="title_coefficient_a">Coefficient a: </string>
+    <string name="title_coefficient_b">Coefficient b: </string>
+    <string name="title_solution">Solution</string>
+    <string name="title_next">Next</string>
+    <string name="title_exit">Exit</string>
+    <string name="title_result">Result:</string>
+    <string name="title_infinity">Infinity!</string>
+    <string name="title_no_solution">No Solution!</string>
+    <string-array name="language_names">
+        <item>English</item>
+        <item>Français</item>
+        <item>Español</item>
+        <item>Tiếng Việt</item>
+    </string-array>
+
+    <string-array name="language_codes">
+        <item>en</item>
+        <item>fr</item>
+        <item>es</item>
+        <item>vi</item>
+    </string-array>
+</resources>
+
+
