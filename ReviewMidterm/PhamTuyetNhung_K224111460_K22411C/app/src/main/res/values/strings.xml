@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">K22411CReviewMidterm</string>
+    <string name="title_login_user_name">User name:</string>
+    <string name="title_login_user_name_hint">Enter your username</string>
+    <string name="title_login_password">Password:</string>
+    <string name="title_login_save_login_infor">Save login infor</string>
+    <string name="title_login_button_login">Login</string>
+    <string name="confirm_exit_title">Exit confirmation</string>
+    <string name="confirm_exit_message">Are you sure you want to exit?</string>
+    <string name="confirm_exit_yes">YES</string>
+    <string name="confirm_exit_no">NO</string>
+    <string name="title_employee">Employee</string>
+    <string name="title_product">List Product</string>
+    <string name="title_add_new_product">Add New Product</string>
+    <string name="title_add_product">Add</string>
+    <string name="title_about_product">About</string>
+    <string name="title_help">Help</string>
+    <string name="title_product_id">Product ID:</string>
+    <string name="title_product_code">Product Code:</string>
+    <string name="title_product_name">Product Name:</string>
+    <string name="title_product_price">Product Price:</string>
+    <string name="title_student_id">Student ID: K224111460</string>
+    <string name="title_student_name">Student Name: Pham Tuyet Nhung</string>
+    <string name="title_student_email">Student Email: nhungpt22411c@st.uel.edu.vn</string>
+    <string name="title_student_class">Student Class: K22411C</string>
+</resources>
